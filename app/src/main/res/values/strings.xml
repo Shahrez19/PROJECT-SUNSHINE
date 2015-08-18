@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+<?xml version="1.0" encoding="utf-8"?>
+
+
     <!--
          Used in Action Bar, and in AndroidManifest to tell the device the name of this app.
          It's to keep this short, so your launcher icon isn't displayed with "The greatest Wea"
@@ -15,7 +17,7 @@
 
     <!-- Menu label to fetch updated weather info from the server -->
     <string name="action_refresh" translatable="false">Refresh</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
 
 </resources>
